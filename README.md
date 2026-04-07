@@ -6,5 +6,5 @@ my personal website for the world and myself hehe
 -so im recreating them for myself that i'd be able to use these services for years without paying a penny
 
 
-![alt text](image.png)
+![alt text](arch.png)
 
